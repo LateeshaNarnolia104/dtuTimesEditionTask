@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+a {
+  font-weight: 500;
+  color: #747bf6;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #1c2074;
+}
+
