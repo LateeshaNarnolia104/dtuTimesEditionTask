@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import EditionForm from "../Components/EditionForm";
 import EditionTable from "../Components/EditionTable";
 
-const API = "https://backenddtutimes.onrender.com";
+const API = "https://backenddtutimes.onrender.com/editions";
 
 function App() {
   const [editions, setEditions] = useState([]);
